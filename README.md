@@ -42,6 +42,4 @@ TOTAL TAXES: $ 97000.00
 
 ### Diagrama usado
 
-![myImage]()
-
-
+![myImage](https://github.com/Luis-gabriel-dev/ex10/blob/main/Diagrama%20UML.PNG)
