@@ -40,6 +40,6 @@ Bob: $ 29500.00
 TOTAL TAXES: $ 97000.00
 ```
 
-### Diagrama usado
+### Diagram used
 
 ![myImage](https://github.com/Luis-gabriel-dev/ex10/blob/main/Diagrama%20UML.PNG)
